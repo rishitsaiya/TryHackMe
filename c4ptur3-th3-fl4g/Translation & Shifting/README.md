@@ -16,7 +16,7 @@ Challenge: `01101100 01100101 01110100 01110011 00100000 01110100 01110010 01111
 
 This is simple Binary to text conversion.
 
-<img src="img/#2.png">
+<img src="#2.png">
 
 Flag: `lets try some binary out!`
 
@@ -25,7 +25,7 @@ Challenge: `MJQXGZJTGIQGS4ZAON2XAZLSEBRW63LNN5XCA2LOEBBVIRRHOM======`
 
 This is Base32 encryption (can be known by ==== in the tail).
 
-<img src="img/#3.png">
+<img src="#3.png">
 
 Flag: `base32 is super common in CTF's`
 
@@ -35,7 +35,7 @@ Challenge: `RWFjaCBCYXNlNjQgZGlnaXQgcmVwcmVzZW50cyBleGFjdGx5IDYgYml0cyBvZiBkYXRh
 
 This is a Base64 encryption (can be known by == in the tail).
 
-<img src="img/#4.png">
+<img src="#4.png">
 
 Flag: `Each Base64 digit represents exactly 6 bits of data.`
 
@@ -44,7 +44,7 @@ Challenge: `68 65 78 61 64 65 63 69 6d 61 6c 20 6f 72 20 62 61 73 65 31 36 3f`
 
 This is Hex encoding.
 
-<img src="img/#5.png">
+<img src="#5.png">
 
 Flag: `hexadecimal or base16?`
 
@@ -53,7 +53,7 @@ Challenge: `Ebgngr zr 13 cynprf!`
 
 That 13 should give us idea of ROT13 encryption.
 
-<img src="img/#6.png">
+<img src="#6.png">
 
 Flag: `Rotate me 13 places!`
 
@@ -63,7 +63,7 @@ Challenge: `*@F DA:? >6 C:89E C@F?5 323J C:89E C@F?5 Wcf E:>6DX`
 
 That capital letters with symbols should give us idea of ROT47 encryption.
 
-<img src="img/#7.png">
+<img src="#7.png">
 
 Flag: `You spin me right round baby right round (47 times)`
 
@@ -73,7 +73,7 @@ Challenge: `- . .-.. . -.-. --- -- -- ..- -. .. -.-. .- - .. --- -.
 
 This is Morse Code.
 
-<img src="img/#8.png">
+<img src="#8.png">
 
 Flag: `TELECOMMUNICATION  ENCODING`
 
@@ -82,7 +82,7 @@ Challenge: `85 110 112 97 99 107 32 116 104 105 115 32 66 67 68`
 
 This is encoded in Decimal encoding. 
 
-<img src="img/#9.png">
+<img src="#9.png">
 
 Flag: `Unpack this BCD`
 
@@ -97,6 +97,6 @@ LS0tLS0gLi0tLS0gLi0tLS0gLS0tLS0gLS0tLS0gLi0tLS0gLi0tLS0gLS0tLS0KLS0tLS0gLi0tLS0g
 
 Last `=` gives us sense of Base64. This is just multiple encryptions which we did earlier.
 
-<img src="img/#10.png">
+<img src="#10.png">
 
 Flag: `Let's make this a bit trickier...`
